@@ -1,8 +1,8 @@
-# twitter-sentiment-analysis
+# TWITTER-SENTIMENT-ANALYSIS
 a simple twitter app for educational purposes
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tweepy.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following libraries.
 
 ```bash
 pip install tweepy
